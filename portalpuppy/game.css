@@ -1,0 +1,25 @@
+body{
+	background-image: url("images/backgroundtexture.png");
+	zoom:100%;
+	/*background-color: green;*/
+	text-align: center;
+}
+
+#title{
+	font-size: 30px;
+	text-align: center;
+	color: white;
+	font-family: 'Indie Flower', cursive;
+	
+
+}
+#gamebox{
+	text-align: center;
+	border:none;
+}
+#gameinfo{
+	font-size: 24px;
+	color: white;
+	text-align: center;
+	font-family: 'Indie Flower', cursive;
+}
